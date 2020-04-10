@@ -1,0 +1,594 @@
+[
+ {
+   "arxiv_category_code": "astro-ph.GA",
+   "category_description": " Astrophysics of Galaxies"
+ },
+ {
+   "arxiv_category_code": "astro-ph.CO",
+   "category_description": " Cosmology and Nongalactic Astrophysics"
+ },
+ {
+   "arxiv_category_code": "astro-ph.EP",
+   "category_description": " Earth and Planetary Astrophysics"
+ },
+ {
+   "arxiv_category_code": "astro-ph.HE",
+   "category_description": " High Energy Astrophysical Phenomena"
+ },
+ {
+   "arxiv_category_code": "astro-ph.IM",
+   "category_description": " Instrumentation and Methods for Astrophysics"
+ },
+ {
+   "arxiv_category_code": "astro-ph.SR",
+   "category_description": " Solar and Stellar Astrophysics"
+ },
+ {
+   "arxiv_category_code": "cond-mat.dis-nn",
+   "category_description": " Disordered Systems and Neural Networks"
+ },
+ {
+   "arxiv_category_code": "cond-mat.mtrl-sci",
+   "category_description": " Materials Science"
+ },
+ {
+   "arxiv_category_code": "cond-mat.mes-hall",
+   "category_description": " Mesoscale and Nanoscale Physics"
+ },
+ {
+   "arxiv_category_code": "cond-mat.other",
+   "category_description": " Other Condensed Matter"
+ },
+ {
+   "arxiv_category_code": "cond-mat.quant-gas",
+   "category_description": " Quantum Gases"
+ },
+ {
+   "arxiv_category_code": "cond-mat.soft",
+   "category_description": " Soft Condensed Matter"
+ },
+ {
+   "arxiv_category_code": "cond-mat.stat-mech",
+   "category_description": " Statistical Mechanics"
+ },
+ {
+   "arxiv_category_code": "cond-mat.str-el",
+   "category_description": " Strongly Correlated Electrons"
+ },
+ {
+   "arxiv_category_code": "cond-mat.supr-con",
+   "category_description": " Superconductivity"
+ },
+ {
+   "arxiv_category_code": "gr-qc",
+   "category_description": " General Relativity and Quantum Cosmology"
+ },
+ {
+   "arxiv_category_code": "hep-ex",
+   "category_description": " High Energy Physics - Experiment"
+ },
+ {
+   "arxiv_category_code": "hep-lat",
+   "category_description": " High Energy Physics - Lattice"
+ },
+ {
+   "arxiv_category_code": "hep-ph",
+   "category_description": " High Energy Physics - Phenomenology"
+ },
+ {
+   "arxiv_category_code": "hep-th",
+   "category_description": " High Energy Physics - Theory"
+ },
+ {
+   "arxiv_category_code": "math-ph",
+   "category_description": " Mathematical Physics"
+ },
+ {
+   "arxiv_category_code": "nlin.AO",
+   "category_description": " Adaptation and Self-Organizing Systems"
+ },
+ {
+   "arxiv_category_code": "nlin.CG",
+   "category_description": " Cellular Automata and Lattice Gases"
+ },
+ {
+   "arxiv_category_code": "nlin.CD",
+   "category_description": " Chaotic Dynamics"
+ },
+ {
+   "arxiv_category_code": "nlin.SI",
+   "category_description": " Exactly Solvable and Integrable Systems"
+ },
+ {
+   "arxiv_category_code": "nlin.PS",
+   "category_description": " Pattern Formation and Solitons"
+ },
+ {
+   "arxiv_category_code": "nucl-ex",
+   "category_description": " Nuclear Experiment"
+ },
+ {
+   "arxiv_category_code": "nucl-th",
+   "category_description": " Nuclear Theory"
+ },
+ {
+   "arxiv_category_code": "physics.acc-ph",
+   "category_description": " Accelerator Physics"
+ },
+ {
+   "arxiv_category_code": "physics.app-ph",
+   "category_description": " Applied Physics"
+ },
+ {
+   "arxiv_category_code": "physics.ao-ph",
+   "category_description": " Atmospheric and Oceanic Physics"
+ },
+ {
+   "arxiv_category_code": "physics.atom-ph",
+   "category_description": " Atomic Physics"
+ },
+ {
+   "arxiv_category_code": "physics.atm-clus",
+   "category_description": " Atomic and Molecular Clusters"
+ },
+ {
+   "arxiv_category_code": "physics.bio-ph",
+   "category_description": " Biological Physics"
+ },
+ {
+   "arxiv_category_code": "physics.chem-ph",
+   "category_description": " Chemical Physics"
+ },
+ {
+   "arxiv_category_code": "physics.class-ph",
+   "category_description": " Classical Physics"
+ },
+ {
+   "arxiv_category_code": "physics.comp-ph",
+   "category_description": " Computational Physics"
+ },
+ {
+   "arxiv_category_code": "physics.data-an",
+   "category_description": " Data Analysis, Statistics and Probability"
+ },
+ {
+   "arxiv_category_code": "physics.flu-dyn",
+   "category_description": " Fluid Dynamics"
+ },
+ {
+   "arxiv_category_code": "physics.gen-ph",
+   "category_description": " General Physics"
+ },
+ {
+   "arxiv_category_code": "physics.geo-ph",
+   "category_description": " Geophysics"
+ },
+ {
+   "arxiv_category_code": "physics.hist-ph",
+   "category_description": " History and Philosophy of Physics"
+ },
+ {
+   "arxiv_category_code": "physics.ins-det",
+   "category_description": " Instrumentation and Detectors"
+ },
+ {
+   "arxiv_category_code": "physics.med-ph",
+   "category_description": " Medical Physics"
+ },
+ {
+   "arxiv_category_code": "physics.optics",
+   "category_description": " Optics"
+ },
+ {
+   "arxiv_category_code": "physics.ed-ph",
+   "category_description": " Physics Education"
+ },
+ {
+   "arxiv_category_code": "physics.soc-ph",
+   "category_description": " Physics and Society"
+ },
+ {
+   "arxiv_category_code": "physics.plasm-ph",
+   "category_description": " Plasma Physics"
+ },
+ {
+   "arxiv_category_code": "physics.pop-ph",
+   "category_description": " Popular Physics"
+ },
+ {
+   "arxiv_category_code": "physics.space-ph",
+   "category_description": " Space Physics"
+ },
+ {
+   "arxiv_category_code": "quant-ph",
+   "category_description": " Quantum Physics"
+ },
+ {
+   "arxiv_category_code": "math.AG",
+   "category_description": " Algebraic Geometry"
+ },
+ {
+   "arxiv_category_code": "math.AT",
+   "category_description": " Algebraic Topology"
+ },
+ {
+   "arxiv_category_code": "math.AP",
+   "category_description": " Analysis of PDEs"
+ },
+ {
+   "arxiv_category_code": "math.CT",
+   "category_description": " Category Theory"
+ },
+ {
+   "arxiv_category_code": "math.CA",
+   "category_description": " Classical Analysis and ODEs"
+ },
+ {
+   "arxiv_category_code": "math.CO",
+   "category_description": " Combinatorics"
+ },
+ {
+   "arxiv_category_code": "math.AC",
+   "category_description": " Commutative Algebra"
+ },
+ {
+   "arxiv_category_code": "math.CV",
+   "category_description": " Complex Variables"
+ },
+ {
+   "arxiv_category_code": "math.DG",
+   "category_description": " Differential Geometry"
+ },
+ {
+   "arxiv_category_code": "math.DS",
+   "category_description": " Dynamical Systems"
+ },
+ {
+   "arxiv_category_code": "math.FA",
+   "category_description": " Functional Analysis"
+ },
+ {
+   "arxiv_category_code": "math.GM",
+   "category_description": " General Mathematics"
+ },
+ {
+   "arxiv_category_code": "math.GN",
+   "category_description": " General Topology"
+ },
+ {
+   "arxiv_category_code": "math.GT",
+   "category_description": " Geometric Topology"
+ },
+ {
+   "arxiv_category_code": "math.GR",
+   "category_description": " Group Theory"
+ },
+ {
+   "arxiv_category_code": "math.HO",
+   "category_description": " History and Overview"
+ },
+ {
+   "arxiv_category_code": "math.IT",
+   "category_description": " Information Theory"
+ },
+ {
+   "arxiv_category_code": "math.KT",
+   "category_description": " K-Theory and Homology"
+ },
+ {
+   "arxiv_category_code": "math.LO",
+   "category_description": " Logic"
+ },
+ {
+   "arxiv_category_code": "math.MP",
+   "category_description": " Mathematical Physics"
+ },
+ {
+   "arxiv_category_code": "math.MG",
+   "category_description": " Metric Geometry"
+ },
+ {
+   "arxiv_category_code": "math.NT",
+   "category_description": " Number Theory"
+ },
+ {
+   "arxiv_category_code": "math.NA",
+   "category_description": " Numerical Analysis"
+ },
+ {
+   "arxiv_category_code": "math.OA",
+   "category_description": " Operator Algebras"
+ },
+ {
+   "arxiv_category_code": "math.OC",
+   "category_description": " Optimization and Control"
+ },
+ {
+   "arxiv_category_code": "math.PR",
+   "category_description": " Probability"
+ },
+ {
+   "arxiv_category_code": "math.QA",
+   "category_description": " Quantum Algebra"
+ },
+ {
+   "arxiv_category_code": "math.RT",
+   "category_description": " Representation Theory"
+ },
+ {
+   "arxiv_category_code": "math.RA",
+   "category_description": " Rings and Algebras"
+ },
+ {
+   "arxiv_category_code": "math.SP",
+   "category_description": " Spectral Theory"
+ },
+ {
+   "arxiv_category_code": "math.ST",
+   "category_description": " Statistics Theory"
+ },
+ {
+   "arxiv_category_code": "math.SG",
+   "category_description": " Symplectic Geometry"
+ },
+ {
+   "arxiv_category_code": "cs.AI",
+   "category_description": " Artificial Intelligence"
+ },
+ {
+   "arxiv_category_code": "cs.CL",
+   "category_description": " Computation and Language"
+ },
+ {
+   "arxiv_category_code": "cs.CC",
+   "category_description": " Computational Complexity"
+ },
+ {
+   "arxiv_category_code": "cs.CE",
+   "category_description": " Computational Engineering, Finance, and Science"
+ },
+ {
+   "arxiv_category_code": "cs.CG",
+   "category_description": " Computational Geometry"
+ },
+ {
+   "arxiv_category_code": "cs.GT",
+   "category_description": " Computer Science and Game Theory"
+ },
+ {
+   "arxiv_category_code": "cs.CV",
+   "category_description": " Computer Vision and Pattern Recognition"
+ },
+ {
+   "arxiv_category_code": "cs.CY",
+   "category_description": " Computers and Society"
+ },
+ {
+   "arxiv_category_code": "cs.CR",
+   "category_description": " Cryptography and Security"
+ },
+ {
+   "arxiv_category_code": "cs.DS",
+   "category_description": " Data Structures and Algorithms"
+ },
+ {
+   "arxiv_category_code": "cs.DB",
+   "category_description": " Databases"
+ },
+ {
+   "arxiv_category_code": "cs.DL",
+   "category_description": " Digital Libraries"
+ },
+ {
+   "arxiv_category_code": "cs.DM",
+   "category_description": " Discrete Mathematics"
+ },
+ {
+   "arxiv_category_code": "cs.DC",
+   "category_description": " Distributed, Parallel, and Cluster Computing"
+ },
+ {
+   "arxiv_category_code": "cs.ET",
+   "category_description": " Emerging Technologies"
+ },
+ {
+   "arxiv_category_code": "cs.FL",
+   "category_description": " Formal Languages and Automata Theory"
+ },
+ {
+   "arxiv_category_code": "cs.GL",
+   "category_description": " General Literature"
+ },
+ {
+   "arxiv_category_code": "cs.GR",
+   "category_description": " Graphics"
+ },
+ {
+   "arxiv_category_code": "cs.AR",
+   "category_description": " Hardware Architecture"
+ },
+ {
+   "arxiv_category_code": "cs.HC",
+   "category_description": " Human-Computer Interaction"
+ },
+ {
+   "arxiv_category_code": "cs.IR",
+   "category_description": " Information Retrieval"
+ },
+ {
+   "arxiv_category_code": "cs.IT",
+   "category_description": " Information Theory"
+ },
+ {
+   "arxiv_category_code": "cs.LG",
+   "category_description": " Learning"
+ },
+ {
+   "arxiv_category_code": "cs.LO",
+   "category_description": " Logic in Computer Science"
+ },
+ {
+   "arxiv_category_code": "cs.MS",
+   "category_description": " Mathematical Software"
+ },
+ {
+   "arxiv_category_code": "cs.MA",
+   "category_description": " Multiagent Systems"
+ },
+ {
+   "arxiv_category_code": "cs.MM",
+   "category_description": " Multimedia"
+ },
+ {
+   "arxiv_category_code": "cs.NI",
+   "category_description": " Networking and Internet Architecture"
+ },
+ {
+   "arxiv_category_code": "cs.NE",
+   "category_description": " Neural and Evolutionary Computing"
+ },
+ {
+   "arxiv_category_code": "cs.NA",
+   "category_description": " Numerical Analysis"
+ },
+ {
+   "arxiv_category_code": "cs.OS",
+   "category_description": " Operating Systems"
+ },
+ {
+   "arxiv_category_code": "cs.OH",
+   "category_description": " Other Computer Science"
+ },
+ {
+   "arxiv_category_code": "cs.PF",
+   "category_description": " Performance"
+ },
+ {
+   "arxiv_category_code": "cs.PL",
+   "category_description": " Programming Languages"
+ },
+ {
+   "arxiv_category_code": "cs.RO",
+   "category_description": " Robotics"
+ },
+ {
+   "arxiv_category_code": "cs.SI",
+   "category_description": " Social and Information Networks"
+ },
+ {
+   "arxiv_category_code": "cs.SE",
+   "category_description": " Software Engineering"
+ },
+ {
+   "arxiv_category_code": "cs.SD",
+   "category_description": " Sound"
+ },
+ {
+   "arxiv_category_code": "cs.SC",
+   "category_description": " Symbolic Computation"
+ },
+ {
+   "arxiv_category_code": "cs.SY",
+   "category_description": " Systems and Control"
+ },
+ {
+   "arxiv_category_code": "q-bio.BM",
+   "category_description": " Biomolecules"
+ },
+ {
+   "arxiv_category_code": "q-bio.GN",
+   "category_description": " Genomics"
+ },
+ {
+   "arxiv_category_code": "q-bio.MN",
+   "category_description": " Molecular Networks"
+ },
+ {
+   "arxiv_category_code": "q-bio.SC",
+   "category_description": " Subcellular Processes"
+ },
+ {
+   "arxiv_category_code": "q-bio.CB",
+   "category_description": " Cell Behavior"
+ },
+ {
+   "arxiv_category_code": "q-bio.NC",
+   "category_description": " Neurons and Cognition"
+ },
+ {
+   "arxiv_category_code": "q-bio.TO",
+   "category_description": " Tissues and Organs"
+ },
+ {
+   "arxiv_category_code": "q-bio.PE",
+   "category_description": " Populations and Evolution"
+ },
+ {
+   "arxiv_category_code": "q-bio.QM",
+   "category_description": " Quantitative Methods"
+ },
+ {
+   "arxiv_category_code": "q-bio.OT",
+   "category_description": " Other"
+ },
+ {
+   "arxiv_category_code": "q-fin.PR",
+   "category_description": " Pricing of Securities"
+ },
+ {
+   "arxiv_category_code": "q-fin.RM",
+   "category_description": " Risk Management"
+ },
+ {
+   "arxiv_category_code": "q-fin.PM",
+   "category_description": " Portfolio Management"
+ },
+ {
+   "arxiv_category_code": "q-fin.TR",
+   "category_description": " Trading and Microstructure"
+ },
+ {
+   "arxiv_category_code": "q-fin.MF",
+   "category_description": " Mathematical Finance"
+ },
+ {
+   "arxiv_category_code": "q-fin.CP",
+   "category_description": " Computational Finance"
+ },
+ {
+   "arxiv_category_code": "q-fin.ST",
+   "category_description": " Statistical Finance"
+ },
+ {
+   "arxiv_category_code": "q-fin.GN",
+   "category_description": " General Finance"
+ },
+ {
+   "arxiv_category_code": "q-fin.EC",
+   "category_description": " Economics"
+ },
+ {
+   "arxiv_category_code": "stat.AP",
+   "category_description": " Applications"
+ },
+ {
+   "arxiv_category_code": "stat.CO",
+   "category_description": " Computation"
+ },
+ {
+   "arxiv_category_code": "stat.ML",
+   "category_description": " Machine Learning"
+ },
+ {
+   "arxiv_category_code": "stat.ME",
+   "category_description": " Methodology"
+ },
+ {
+   "arxiv_category_code": "stat.OT",
+   "category_description": " Other Statistics"
+ },
+ {
+   "arxiv_category_code": "stat.TH",
+   "category_description": " Theory"
+ }
+]
